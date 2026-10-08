@@ -1,4 +1,4 @@
-namespace SRP.Models;
+namespace SRP.Models.CheckoutBasket1;
 
 public sealed class CheckoutBasket
 {
